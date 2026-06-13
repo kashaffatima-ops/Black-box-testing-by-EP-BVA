@@ -1,8 +1,10 @@
-# Online Event Registration System - Test Design Project
+# Online Event Registration System Test Design Project
 
 ## Overview
 
 This repository contains a comprehensive Software Quality Assurance (SQA) project focused on the testing and validation of an Online Event Registration System. The project applies industry-standard Black-Box Testing techniques including Equivalence Partitioning (EP) and Boundary Value Analysis (BVA) to design effective and efficient test cases.
+
+Project link:https://drive.google.com/drive/folders/1i1sYG-IcUFbRoRQomX4iRwHHdUbCt0Gz?usp=sharing
 
 ## Objectives
 
